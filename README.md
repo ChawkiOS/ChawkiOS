@@ -15,4 +15,4 @@
 <img src="https://github-profile-trophy.vercel.app/?username=chawkios&theme=nord&margin-w=10&margin-h=10"/>
 
 ---
-![](https://komarev.com/ghpvc/?username=hyochan&label=Visitors+Count&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=chawkios&label=Visitors+Count&color=brightgreen)
