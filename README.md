@@ -10,8 +10,9 @@
 <img src="https://server.dooboo.io/github-stats-advanced/chawkios?date=004" width="600" />
 
 #### GitHub Trophies 🏆
+<img src="https://server.dooboo.io/github-trophies/chawkios"/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=chawkios&theme=nord&margin-w=10&margin-h=10"/>
 
-<img src="https://server.dooboo.io/github-trophies/hyochan?date=004" width="720" />
 ---
-![](https://komarev.com/ghpvc/?username=chawkios&label=Visitors+Count&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=hyochan&label=Visitors+Count&color=brightgreen)
