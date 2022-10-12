@@ -9,6 +9,8 @@
 #### GitHub Stats 📈
 <img src="https://server.dooboo.io/github-stats-advanced/chawkios?date=004" width="600" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chawkios&theme=nord&count_private=true&layout=compact" width="512" />
+
 #### GitHub Trophies 🏆
 <img src="https://server.dooboo.io/github-trophies/chawkios"/>
 
